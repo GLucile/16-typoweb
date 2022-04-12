@@ -9,77 +9,15 @@ body {
 }
 
 header {
-  display: flex;
-  flex-wrap: wrap;
   border-bottom: solid 2px rgb(0, 46, 99);
   padding-bottom: 30px;
   margin: 0 25px;
-}
-
-.icon {
-  background-color: rgb(0, 46, 99);
-  color: whitesmoke;
-  font-family: 'Grenze-Regular';
-  font-size: 60px;
-  padding: 1px 22px;
-  margin: 0;
 }
 
 .page-title {
   color: rgb(0, 46, 99);
   font-family: 'Grenze-Light';
   font-size: 60px;
-  margin: 5px 0 0 25px;
+  text-align: center;
+  margin: 0;
 }
-
-.chapters {
-  display: flex;
-  flex-wrap: nowrap;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  margin: 0 25px;
-}
-
-.chapter-selection {
-  background-color: rgb(96, 130, 182);
-  color: whitesmoke;
-  font-family: 'Grenze-Light';
-  font-size: 16px;
-  padding: 10px 15px;
-  border-radius: 10px;
-  margin: 35px 0 35px 0;
-}
-
-figure {
-  margin: 0 25px;
-}
-
-.weights-opening {
-  border: solid black 2px;
-  margin: 0 70px 0 0;
-}
-
-figcaption {
-  color: white;
-  border: solid black 2px;
-  margin: 0 0 53px 2px;
-}
-
-.alphabet-normal {
-  margin: 0 25px;
-}
-
-.alphabet-gotisch {
-  margin: 30px 25px;
-}
-
-.weights-typeface {
-  padding: 0;
-}
-
-.history {
-  padding: 0 25px;
-  font-family: 'Grenze-Regular';
-}
-
