@@ -2,7 +2,6 @@
 
 html {
   scroll-behavior: smooth;
-  font-family: 'Grenze-Regular';
 }
 
 body {
@@ -20,6 +19,7 @@ header {
 .icon {
   background-color: rgb(0, 46, 99);
   color: whitesmoke;
+  font-family: 'Grenze-Regular';
   font-size: 60px;
   padding: 1px 22px;
   margin: 0;
@@ -77,3 +77,9 @@ figcaption {
 .weights-typeface {
   padding: 0;
 }
+
+.history {
+  padding: 0 25px;
+  font-family: 'Grenze-Regular';
+}
+
