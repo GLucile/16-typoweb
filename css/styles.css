@@ -21,3 +21,22 @@ header {
   text-align: center;
   margin: 0;
 }
+
+.chapters {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 25px;
+}
+
+.chapter-selection {
+  background-color: rgb(96, 130, 182);
+  color: whitesmoke;
+  font-family: 'Grenze-Light';
+  font-size: 12px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin: 20px 0 35px 0;
+}
