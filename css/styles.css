@@ -48,3 +48,18 @@ header {
   border-radius: 10px;
   margin: 35px 0 35px 0;
 }
+
+figure {
+  margin: 0;
+}
+
+.weights-opening {
+  border: solid black 2px;
+  margin: 0 70px 0 0;
+}
+
+figcaption {
+  color: white;
+  border: solid black 2px;
+  margin: 0 0 53px 2px;
+}
