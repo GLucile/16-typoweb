@@ -72,3 +72,34 @@ figure {
   padding: 0 25px;
   margin: 30px 0 45px 0;
 }
+
+.interactive-ex {
+  background-color: rgb(0, 46, 99);
+  color: whitesmoke;
+  font-family: 'Grenze-Thin';
+  font-size: 57px;
+  padding: 5px 25px;
+  margin: 0;
+}
+
+.media-ex {
+  background-color: rgb(161, 202, 241);
+  color: whitesmoke;
+  font-family: 'Grenze-Medium';
+  font-size: 57px;
+  padding: 5px 25px;
+  margin: 0;
+}
+
+.designer-ex {
+  background-color: rgb(96, 130, 182);
+  color: whitesmoke;
+  font-family: 'Grenze-Black';
+  font-size: 57px;
+  padding: 5px 25px;
+  margin: 0;
+}
+
+.dw-exemple {
+  margin-bottom: 25px;
+}
