@@ -40,3 +40,10 @@ header {
   border-radius: 10px;
   margin: 20px 0 35px 0;
 }
+
+h3 {
+  color: rgb(0, 46, 99);
+  font-family: 'Grenze-Bold';
+  font-size: 26px;
+  margin: 0 25px;
+}
