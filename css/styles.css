@@ -111,3 +111,30 @@ figure {
 .alphabet-gotisch {
   margin: 30px 25px;
 }
+
+.inspired-poster {
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: 'Iowan Old Style';
+  color: rgb(0, 46, 99);
+  margin: 10px 25px;
+}
+
+.normal-test {
+  font-family: 'Grenze-Regular';
+  font-size: 18px;
+  margin: 0 25px 20px;
+  padding: 5px;
+  border: solid rgba(0, 46, 99, 0.2) 1px;
+}
+
+.gotisch-test {
+  font-family: 'GrenzeGotisch-Regular';
+  font-size: 18px;
+  margin: 0 25px 20px;
+  padding: 5px;
+  border: solid rgba(0, 46, 99, 0.2) 1px;
+}
