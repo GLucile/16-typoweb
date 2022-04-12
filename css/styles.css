@@ -1,4 +1,4 @@
-/* colors ---> dark blue (rgb 0,46,99) */
+/* colors ---> dark blue (rgb 0,46,99), gray-blue (rbg96 130 182) */
 
 html {
   scroll-behavior: smooth;
@@ -31,3 +31,20 @@ header {
   margin: 5px 0 0 25px;
 }
 
+.chapters {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chapter-selection {
+  background-color: rgb(96, 130, 182);
+  color: whitesmoke;
+  font-family: 'Grenze-Light';
+  font-size: 16px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin: 35px 0 35px 0;
+}
