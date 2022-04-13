@@ -1,7 +1,7 @@
 /* sources grenze 'woff' */
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Black';
   src: url(../fonts/Grenze-Black.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-BlackItalic';
   src: url(../fonts/Grenze-BlackItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Bold';
   src: url(../fonts/Grenze-Bold.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -25,7 +25,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-BoldItalic';
   src: url(../fonts/Grenze-BoldItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -33,7 +33,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-ExtraBold';
   src: url(../fonts/Grenze-ExtraBold.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -41,7 +41,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-ExtraBoldItalic';
   src: url(../fonts/Grenze-ExtraBoldItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -49,7 +49,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-ExtraLight';
   src: url(../fonts/Grenze-ExtraLight.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -57,7 +57,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-ExtraLightItalic';
   src: url(../fonts/Grenze-ExtraLightItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -65,7 +65,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Italic';
   src: url(../fonts/Grenze-Italic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -73,7 +73,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Light';
   src: url(../fonts/Grenze-Light.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -81,7 +81,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-LightItalic';
   src: url(../fonts/Grenze-LightItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -89,7 +89,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Medium';
   src: url(../fonts/Grenze-Medium.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -97,7 +97,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-MediumItalic';
   src: url(../fonts/Grenze-MediumItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -105,7 +105,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Regular';
   src: url(../fonts/Grenze-Regular.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -113,7 +113,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-SemiBold';
   src: url(../fonts/Grenze-SemiBold.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -121,7 +121,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-SemiBoldItalic';
   src: url(../fonts/Grenze-SemiBoldItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -129,7 +129,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-Thin';
   src: url(../fonts/Grenze-Thin.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -137,7 +137,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'Grenze-ThinItalic';
   src: url(../fonts/Grenze-ThinItalic.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -147,7 +147,7 @@
 /* sources grenze gotisch 'woff' */
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Black';
   src: url(../fonts/GrenzeGotisch-Black.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -155,7 +155,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Black';
   src: url(../fonts/GrenzeGotisch-Black.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -163,7 +163,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Bold';
   src: url(../fonts/GrenzeGotisch-Bold.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -171,7 +171,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-ExtraBold';
   src: url(../fonts/GrenzeGotisch-ExtraBold.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -179,7 +179,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-ExtraLight';
   src: url(../fonts/GrenzeGotisch-ExtraLight.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -187,7 +187,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Light';
   src: url(../fonts/GrenzeGotisch-Light.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -195,7 +195,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Medium';
   src: url(../fonts/GrenzeGotisch-Medium.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -203,7 +203,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Regular';
   src: url(../fonts/GrenzeGotisch-Regular.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -211,7 +211,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-SemiBold';
   src: url(../fonts/GrenzeGotisch-SemiBold.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
@@ -219,7 +219,7 @@
 }
 
 @font-face {
-  font-family: 'Grenze';
+  font-family: 'GrenzeGotisch-Thin';
   src: url(../fonts/GrenzeGotisch-Thin.woff) format('woff');
   font-weight: 400; 
   font-style: normal; 
