@@ -141,3 +141,18 @@ h4 {
   border: solid rgba(0, 46, 99, 0.2) 1px;
 }
 
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 10px;
+  font-family: 'Iowan Old Style';
+  margin: 20px 25px;
+}
+
+footer p {
+  border: 2px solid rgb(0, 46, 99);
+  border-radius: 12px;
+  padding: 10px;
+  margin: 10px 30px 10px 5px;
+}
