@@ -6,6 +6,8 @@ html {
 
 body {
   margin: 20px 0;
+  max-width: 375px;
+  overflow-x: hidden;
 }
 
 header {
@@ -141,25 +143,63 @@ h4 {
   border: solid rgba(0, 46, 99, 0.2) 1px;
 }
 
-.banner-devil {
+.banner-devil p {
   color: whitesmoke;
   font-size: 30px;
   margin: 0;
+  padding: 7px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+  animation: fill 0.5s infinite alternate;
+  flex-direction: column;
 }
 
 .top-banner {
   background-color: rgb(0, 46, 99);
   font-family: 'GrenzeGotisch-ExtraLight';
+  overflow-x: hidden;
+}
+
+.top-banner p {
+  width: fit-content;
+  white-space: nowrap;
+  animation: scroll-left 10s linear 0.5s infinite;
 }
 
 .middle-banner {
   background-color: rgb(96, 130, 182);
   font-family: 'GrenzeGotisch-Thin';
+  overflow-x: hidden;
+}
+
+.middle-banner p {
+  width: fit-content;
+  white-space: nowrap;
+  animation: scroll-left 15s linear 0.5s infinite;
 }
 
 .bottom-banner {
   background-color: rgb(161, 202, 241);
   font-family: 'GrenzeGotisch-Light';
+  overflow-x: hidden;
+}
+
+.bottom-banner p {
+  width: fit-content;
+  white-space: nowrap;
+  animation: scroll-left 5s linear 0.5s infinite;
+}
+
+/* animation */
+@keyframes scroll-left {
+  0% {
+    margin-left: 0%;
+  }
+  100% {
+    margin-left: -100%;
+  }
 }
 
 footer {
