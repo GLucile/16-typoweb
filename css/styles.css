@@ -79,7 +79,7 @@ figure {
   background-color: rgb(0, 46, 99);
   color: whitesmoke;
   font-family: 'Grenze-Thin';
-  font-size: 57px;
+  font-size: 45px;
   padding: 5px 25px;
   margin: 0;
 }
@@ -88,7 +88,7 @@ figure {
   background-color: rgb(161, 202, 241);
   color: whitesmoke;
   font-family: 'Grenze-Medium';
-  font-size: 57px;
+  font-size: 50px;
   padding: 5px 25px;
   margin: 0;
 }
@@ -97,7 +97,7 @@ figure {
   background-color: rgb(96, 130, 182);
   color: whitesmoke;
   font-family: 'Grenze-Black';
-  font-size: 57px;
+  font-size: 50px;
   padding: 5px 25px;
   margin: 0;
 }
