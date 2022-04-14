@@ -116,6 +116,22 @@ figure {
   margin: 30px 25px;
 }
 
+.title-extra {
+  color: whitesmoke;
+  background-color: rgb(96, 130, 182);
+  font-family:'Grenze-Bold';
+  padding: 10px 25px;
+  margin: 0 135px 0 0;
+}
+
+.glyphes-extra {
+  color: rgb(0, 46, 99);
+  font-family: 'Grenze-Regular';
+  font-size: 30px;
+  text-align: justify;
+  margin: 20px 25px 40px 25px;
+}
+
 .inspired-poster {
   margin-bottom: 20px;
 }
